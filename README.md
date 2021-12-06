@@ -4,4 +4,4 @@ Página desenvolvida pelos discente do 2º Período do Curso Superior de Tecnolo
 
 ## Colaboradores
 * Francisco Paulo de Freitas Neto - Professor
-* ...
+* Artur Almeida de Araújo Freire - Aluno
