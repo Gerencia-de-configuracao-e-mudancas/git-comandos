@@ -6,3 +6,4 @@ Página desenvolvida pelos discente do 2º Período do Curso Superior de Tecnolo
 * Francisco Paulo de Freitas Neto - Professor
 * Artur Almeida de Araújo Freire - Aluno
 - Alysson Aldrin Barreto Bezerra - Aluno
+* Immanuel Victor Amorim Farias - Aluno
