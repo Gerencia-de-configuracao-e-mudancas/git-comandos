@@ -7,3 +7,4 @@ Página desenvolvida pelos discente do 2º Período do Curso Superior de Tecnolo
 * Artur Almeida de Araújo Freire - Aluno
 - Alysson Aldrin Barreto Bezerra - Aluno
 * Immanuel Victor Amorim Farias - Aluno
+* Lyzzandro Dualamo Soares Teodosio - Aluno
