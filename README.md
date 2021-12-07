@@ -9,3 +9,4 @@ Página desenvolvida pelos discente do 2º Período do Curso Superior de Tecnolo
 * Immanuel Victor Amorim Farias - Aluno
 * Lyzzandro Dualamo Soares Teodosio - Aluno
 * Ives Furtado Gonçalves Moreira - Aluno
+* Edwilson Bezerra Sobrinho Neto - Aluno
