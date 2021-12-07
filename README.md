@@ -11,3 +11,4 @@ Página desenvolvida pelos discente do 2º Período do Curso Superior de Tecnolo
 * Ives Furtado Gonçalves Moreira - Aluno
 * Edwilson Bezerra Sobrinho Neto - Aluno
 * Lucas Marques Garrido - Aluno
+* José Igor Venâncio de Albuquerque - Aluno
