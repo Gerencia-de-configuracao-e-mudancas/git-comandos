@@ -12,3 +12,4 @@ Página desenvolvida pelos discente do 2º Período do Curso Superior de Tecnolo
 * Edwilson Bezerra Sobrinho Neto - Aluno
 * Lucas Marques Garrido - Aluno
 * José Igor Venâncio de Albuquerque - Aluno
+* Alana Cristina Felix da Silva - Aluna
