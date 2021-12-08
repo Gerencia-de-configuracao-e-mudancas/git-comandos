@@ -14,3 +14,4 @@ Página desenvolvida pelos discente do 2º Período do Curso Superior de Tecnolo
 * José Igor Venâncio de Albuquerque - Aluno
 * Alana Cristina Felix da Silva - Aluna
 * Davi de Morais Farias - Aluno
+* Débora Fernandes da Cruz- Aluna
