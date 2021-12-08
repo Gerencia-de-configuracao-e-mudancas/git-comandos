@@ -16,3 +16,4 @@ Página desenvolvida pelos discente do 2º Período do Curso Superior de Tecnolo
 * Davi de Morais Farias - Aluno
 * Débora Fernandes da Cruz- Aluna
 * Thalyson Rian Mendes da Silva - Aluno
+* Caio Pinheiro Guedes - Aluno
