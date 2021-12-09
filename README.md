@@ -18,3 +18,4 @@ Página desenvolvida pelos discente do 2º Período do Curso Superior de Tecnolo
 * Thalyson Rian Mendes da Silva - Aluno
 * Caio Pinheiro Guedes - Aluno
 * Jonathas Batista Silva - Aluno
+* Iago Alves de Oliveira - Aluno
