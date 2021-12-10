@@ -19,3 +19,4 @@ Página desenvolvida pelos discente do 2º Período do Curso Superior de Tecnolo
 * Caio Pinheiro Guedes - Aluno
 * Jonathas Batista Silva - Aluno
 * Iago Alves de Oliveira - Aluno
+* Pedro Pereira de Morais Júnior - Aluno
