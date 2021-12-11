@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
-*{
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 .cabecalho {
@@ -17,7 +17,7 @@
 }
 
 h1 {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
   max-width: 1150px;
   margin: 60px auto;
   padding: 20px;
@@ -26,7 +26,7 @@ h1 {
 }
 
 h1::after {
-  content: '|';
+  content: "|";
   color: white;
   margin-left: 5px;
   opacity: 100%;
@@ -34,19 +34,18 @@ h1::after {
 }
 
 @keyframes piscar {
-
   0%,
   100% {
-      opacity: 100%;
+    opacity: 100%;
   }
 
   50% {
-      opacity: 0;
+    opacity: 0;
   }
 }
 
 h3 {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .identificacao_turma {
@@ -54,28 +53,13 @@ h3 {
   line-height: 30px;
 }
 
-body{
+body {
   margin: 0;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   background-color: black;
 }
 
-.card {
-  margin: 0 auto;
-  margin-bottom: 20px;
-  padding: 20px;
-  width: 40%;
-  border-radius: 10px;
-  box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.25);
-  transition: all 0.2s;
-  background: radial-gradient(#ffb4eb86, #cda6ff81);
-}
-
-.card:hover {
-  box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.4);
-  transform: scale(1.01);
-}
-h1{
+h1 {
   text-align: center;
   margin: 2vh 0 4vh 0;
   color: white;
@@ -83,45 +67,107 @@ h1{
   text-shadow: 0px 6px 10px rgba(0, 0, 0, 0.8);
 }
 
-h3{
+h3 {
   text-align: center;
   margin: 0 0 2vh 0;
 }
 
-.card p{
-  margin: 10px;
+#container {
+  width: 90%;
+  margin: 50px auto;
 }
-
-.card h4 {
-  color: rgb(31, 31, 31);
-  background-color: rgba(255, 255, 255, 0.4);
-  margin: 0 auto;
+#row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-flow: wrap;
+}
+.card {
+  width: 26%;
+  background-color: rgba(0, 0, 0, 0);
+  margin-bottom: 50px;
+  transition: 0.3s ease-in-out;
+  border-radius: 15px;
+  position: relative;
+  height: 160px;
+  border: 3px solid #1dc907;
+  display: flex;
+  flex-direction: column;
+}
+.card:hover {
+  height: 120%;
+  transform: scale(1.05);
+  box-shadow: 0 0 30px #1dc907;
+}
+.card p {
+  color: white;
+  margin-bottom: 15px;
+}
+.card-header {
   text-align: center;
-  border-radius: 25px;
+  padding: 50px 10px;
+  background-color: rgba(0, 0, 0, 0);
+  color: #fff;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  height: 135px;
+  position: relative;
+  z-index: 1;
 }
-
-.maisinf{
-  margin-left: 70%;
-  font-size: 13px;
-  list-style: none;
+.card-header h2 {
+  filter: drop-shadow(0 0 0.2rem #1dc907);
+}
+.card:hover .card-header {
+  border-bottom: 3px solid #1dc907;
+}
+.card-body {
+  padding: 20px 10px;
+  font-size: 16px;
+  margin-top: -60px;
+  text-align: justify;
+  position: relative;
+  visibility: hidden;
+  opacity: 0;
+  transition: 0.3s ease-in-out;
+}
+.card:hover .card-body {
+  visibility: visible;
+  opacity: 1;
+  margin-top: 0;
+  transition: 0.2s;
+}
+.info a {
   text-decoration: none;
-  backdrop-filter:initial;
-  background-color: rgba(255, 255, 255, 0.4);
-  border-radius: 5px;
-  padding: 5px;
+  color: #fff;
+}
+.info {
+  border: 2px solid #1dc907;
+  margin-left: 120px;
+  border-radius: 10px;
+  padding: 2px 5px;
+}
+.info:hover {
+  box-shadow: 0 0 5px #1dc907;
 }
 
-.maisinf a{
-  text-decoration: none;
-  color: rgb(38, 13, 34);
-}
+/*parte responsiva do site*/
 
-.maisinf a:hover{
-  color: rgb(252, 252, 252);
-  background-color: rgba(110, 52, 105, 0.514);
-  transition: 0.5s;
-  padding: 4px;
-  border-radius: 5px;
+@media screen and (max-width: 1000px) {
+  .card {
+    width: 40%;
+  }
+}
+@media screen and (max-width: 620px) {
+  #container {
+    width: 100%;
+  }
+  header {
+    padding: 20px;
+    font-size: 20px;
+  }
+  .card {
+    width: 80%;
+  }
 }
 
 #opiniao {
@@ -131,19 +177,17 @@ h3{
   margin: 20px;
   padding: 20px;
   color: aliceblue;
- 
 }
 
-#opiniao button{
+#opiniao button {
   width: 6vw;
   height: 4vh;
   border: none;
   border-radius: 20px;
   font-size: 1em;
   box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.4);
-
 }
 
-#buttons{
+#buttons {
   margin: 0 auto;
 }
