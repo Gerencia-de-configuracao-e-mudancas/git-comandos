@@ -6,9 +6,58 @@
     padding: 0;
 }
 
-body{
+.cabecalho {
+  margin-top: 0;
+  background-color: #333333;
+  color: #1dc907;
+  text-align: center;
+  margin-left: 8px;
+  margin-right: 12px;
+  margin-bottom: 25vh;
+}
+
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+  max-width: 1150px;
+  margin: 60px auto;
+  padding: 20px;
+  font-size: 30px;
+  margin: 0 0 0 0;
+}
+
+h1::after {
+  content: '|';
+  color: white;
+  margin-left: 5px;
+  opacity: 100%;
+  animation: piscar 0.7s infinite;
+}
+
+@keyframes piscar {
+
+  0%,
+  100% {
+      opacity: 100%;
+  }
+
+  50% {
+      opacity: 0;
+  }
+}
+
+h3 {
   font-family: 'Poppins', sans-serif;
-  background-image: linear-gradient(to right, rgb(0, 216, 151) , rgb(212, 0, 255));
+}
+
+.identificacao_turma {
+  padding: 2px;
+  line-height: 30px;
+}
+
+body{
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: black;
 }
 
 .card {
