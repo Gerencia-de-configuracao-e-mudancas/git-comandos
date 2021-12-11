@@ -23,4 +23,4 @@ Página desenvolvida pelos discente do 2º Período do Curso Superior de Tecnolo
 * Daniel de Oliveira Sousa - Aluno
 * Débora Camilly Quirino da Silva - Aluna
 * José Guilherme Costa de Aquino - Aluno
-* Samira Gabriely Ferreira VEras - Aluna
+* Samira Gabriely Ferreira Veras - Aluna
