@@ -21,3 +21,4 @@ Página desenvolvida pelos discente do 2º Período do Curso Superior de Tecnolo
 * Iago Alves de Oliveira - Aluno
 * Pedro Pereira de Morais Júnior - Aluno
 * Daniel de Oliveira Sousa - Aluno
+* Débora Camilly Quirino da Silva - Aluna
