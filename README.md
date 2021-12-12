@@ -27,3 +27,4 @@ Página desenvolvida pelos discente do 2º Período do Curso Superior de Tecnolo
 - Samira Gabriely Ferreira Veras - Aluna
 - Jonathan César Reis dos Santos - Aluno
 - Leonardo Mendes Monteiro - Aluno
+- Felipe Pereira Alves DA Silva - Aluno 
