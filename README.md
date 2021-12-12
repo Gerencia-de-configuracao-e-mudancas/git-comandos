@@ -26,3 +26,4 @@ Página desenvolvida pelos discente do 2º Período do Curso Superior de Tecnolo
 - José Guilherme Costa de Aquino - Aluno
 - Samira Gabriely Ferreira Veras - Aluna
 - Jonathan César Reis dos Santos - Aluno
+- Leonardo Mendes Monteiro - Aluno
