@@ -28,3 +28,4 @@ Página desenvolvida pelos discente do 2º Período do Curso Superior de Tecnolo
 - Jonathan César Reis dos Santos - Aluno
 - Leonardo Mendes Monteiro - Aluno
 - Felipe Pereira Alves DA Silva - Aluno 
+- Bruno Vinícius do Nascimento Vasconcelos - Aluno
