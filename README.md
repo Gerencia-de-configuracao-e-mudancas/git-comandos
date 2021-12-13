@@ -28,6 +28,7 @@ Página desenvolvida pelos discente do 2º Período do Curso Superior de Tecnolo
 - Jonathan César Reis dos Santos - Aluno
 - Leonardo Mendes Monteiro - Aluno
 - Felipe Pereira Alves DA Silva - Aluno 
+- David Ferreira Mariano Da Silva - Aluno
 - Bruno Vinícius do Nascimento Vasconcelos - Aluno
 - Adrian Guilherme Pedrosa Américo Oliveira - Aluno
 - Isaelson Gutembergh Trajano Gomes - Aluno

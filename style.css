@@ -195,3 +195,8 @@ h3 {
 #buttons {
   margin: 0 auto;
 }
+footer {
+  background: center;
+  color: #1dc907;
+  text-align: center;
+}
