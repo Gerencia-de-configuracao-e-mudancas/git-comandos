@@ -1,4 +1,4 @@
-# Repositório colaborativo ![](https://img.shields.io/github/issues/paulofreitasnt/git-comandos)
+# Repositório colaborativo ![](https://img.shields.io/github/issues/paulofreitasnt/git-comandos?style=for-the-badge&logo=bitcoin)
 
 Página desenvolvida pelos discente do 2º Período do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas do IFPB, campus Cajazeiras, como atividade da disciplina de Gerência de Configuração e Mudanças.
 
