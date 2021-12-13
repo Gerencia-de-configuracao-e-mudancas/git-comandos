@@ -2,6 +2,10 @@
 
 Página desenvolvida pelos discente do 2º Período do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas do IFPB, campus Cajazeiras, como atividade da disciplina de Gerência de Configuração e Mudanças.
 
+## Acesso
+
+Para acessar a página basta utilizar o endereço: <https://paulofreitasnt.github.io/git-comandos/>
+
 ## Colaboradores
 
 - Francisco Paulo de Freitas Neto - Professor
