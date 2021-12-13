@@ -30,5 +30,6 @@ Página desenvolvida pelos discente do 2º Período do Curso Superior de Tecnolo
 - Felipe Pereira Alves DA Silva - Aluno 
 - Bruno Vinícius do Nascimento Vasconcelos - Aluno
 - Adrian Guilherme Pedrosa Américo Oliveira - Aluno
-- Isaelson Gutembergh Trajano Gomes
+- Isaelson Gutembergh Trajano Gomes - Aluno
+- João Alfredo Alves Marinho Neto - Aluno
 - Adrielly Ester Pires Lopes - Aluna
