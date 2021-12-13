@@ -31,3 +31,4 @@ Página desenvolvida pelos discente do 2º Período do Curso Superior de Tecnolo
 - Bruno Vinícius do Nascimento Vasconcelos - Aluno
 - Adrian Guilherme Pedrosa Américo Oliveira - Aluno
 - Isaelson Gutembergh Trajano Gomes
+- Adrielly Ester Pires Lopes - Aluna
