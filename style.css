@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
-
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap');
 * {
   box-sizing: border-box;
   margin: 0;
@@ -8,12 +8,13 @@
 
 .cabecalho {
   margin-top: 0;
-  background-color: #333333;
+  background-color: #483C67;
   color: #1dc907;
   text-align: center;
   margin-left: 8px;
   margin-right: 12px;
   margin-bottom: 25vh;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
@@ -56,7 +57,7 @@ h3 {
 body {
   margin: 0;
   font-family: "Poppins", sans-serif;
-  background-color: black;
+  background-color: #191622;
 }
 
 h1 {
@@ -90,14 +91,14 @@ h3 {
   border-radius: 15px;
   position: relative;
   height: 160px;
-  border: 3px solid #1dc907;
+  border: 3px solid #67E480;
   display: flex;
   flex-direction: column;
 }
 .card:hover {
   height: 120%;
   transform: scale(1.05);
-  box-shadow: 0 0 30px #1dc907;
+  box-shadow: 0 0 30px #67E480;
 }
 .card p {
   color: white;
@@ -115,10 +116,11 @@ h3 {
   z-index: 1;
 }
 .card-header h2 {
-  filter: drop-shadow(0 0 0.2rem #1dc907);
+  filter: drop-shadow(0 0 0.2rem #67E480);
+  font-family: 'Fira Code';
 }
 .card:hover .card-header {
-  border-bottom: 3px solid #1dc907;
+  border-bottom: 3px solid #67E480;
 }
 .card-body {
   padding: 20px 10px;
@@ -134,6 +136,9 @@ h3 {
   width: 100%;
   display: flex;
 }
+.card-footer a {
+  padding: 10px 20px;
+}
 .card:hover .card-body {
   visibility: visible;
   opacity: 1;
@@ -145,13 +150,13 @@ h3 {
   color: #fff;
 }
 .info {
-  border: 2px solid #1dc907;
+  border: 2px solid #67E480;
   margin: 0 auto;
   border-radius: 10px;
   padding: 2px 5px;
 }
 .info:hover {
-  box-shadow: 0 0 5px #1dc907;
+  box-shadow: 0 0 5px #67E480;
 }
 
 /*parte responsiva do site*/
@@ -192,7 +197,7 @@ h3 {
   box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.4);
 }
 #opiniao button:hover {
-  background: rgb(200, 200, 200);
+  background: #44475a;
   cursor: pointer;
 
 }
@@ -202,6 +207,6 @@ h3 {
 }
 footer {
   background: center;
-  color: #1dc907;
+  color: #67E480;
   text-align: center;
 }

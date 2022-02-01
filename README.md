@@ -38,3 +38,4 @@ Para acessar a página basta utilizar o endereço: <https://paulofreitasnt.githu
 - Isaelson Gutembergh Trajano Gomes - Aluno
 - João Alfredo Alves Marinho Neto - Aluno
 - Adrielly Ester Pires Lopes - Aluna
+- Felipe David da Nóbrega Amador - Aluno
